@@ -1,4 +1,4 @@
-#JLOX
+<h1>JLox</h1>
 
 Part 1 of Crafting Interpreters by Robert Nystrom
 
